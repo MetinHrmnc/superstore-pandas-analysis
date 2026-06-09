@@ -1,0 +1,7 @@
+{
+  "[python]": {
+    "editor.hover.enabled": "off",
+    "editor.parameterHints.enabled": false
+  },
+  "git.ignoreLimitWarning": true
+}
